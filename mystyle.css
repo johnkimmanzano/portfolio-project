@@ -1,0 +1,174 @@
+@font-face{
+    font-family:Montserrat;
+    src: url(./fonts/fonts/Montserrat/Montserrat-ExtraBold.ttf);
+}
+@font-face{
+    font-family: Marriweather;
+    src: url(./fonts/fonts/Merriweather/Merriweather-LightItalic.ttf);
+}
+@font-face{
+    font-family: Sacramento;
+    src: url(./fonts/fonts/Merriweather/Merriweather-Italic.ttf);
+}
+body{
+    margin-top: 0px;
+    margin-right: 0px;
+}
+.Body{
+    background-color: #BFB8DA;
+}
+.top-container{
+    
+    background:linear-gradient(to top, #33539E , #7FACD6 );
+    -webkit-background-origin: inherit;
+    
+
+}
+.top-img-container{
+    text-align: center;
+   
+}
+.middle-container{
+    text-align: center;
+}
+.bottom-container{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+    .kim{
+        font-size: 80px;
+       margin-top: 0px;
+        margin-bottom: 0px;
+        font-family: Sacramento;
+    }
+    #info{
+        margin-top: 0px;
+        font-family: Marriweather;
+    }
+    #cloud1{
+       position: absolute;
+       left: 10%;
+       padding-top: 10%;
+       
+    }
+    #mountain{
+        text-align: center;
+        vertical-align: bottom;
+    
+    }
+    #cloud2{
+      position: absolute;
+      right: 10%;
+    }
+#mypic{
+    border-radius: 50% ;
+    height: 130px;
+    width: 130px;
+}
+#hr{
+    border-style: solid 2px black;
+}
+#hello{
+    margin: auto;
+    font-family: Sacramento;
+}
+#aspiring{
+    margin: auto;
+    font-family: Sacramento;
+}
+#myskills{
+    font-family: Sacramento;
+
+}
+    #browser-img{
+        height: 15%;
+        width: 15%;
+        position: absolute;
+        left: 25%;
+    }
+    #webdev{
+        position: relative;
+        padding: 3px 0px 0px 550px;
+        text-align: left; 
+    }
+    #text{
+        position: relative;
+        padding: 0px 0px 16px 550px;
+        text-align: left;   
+           
+
+    }
+#hobbies{
+    position: relative;
+    padding: 3px 0px 0px 550px;
+    text-align: left;
+}
+#movies{
+    position: relative;
+    padding: 3px 0px 0px 550px;
+    text-align: left;
+    
+}
+#playing{
+    position: relative;
+        padding: 3px 0px 0px 550px;
+        text-align: left;
+}
+#intellect{
+    height: 15%;
+    width: 15%;
+    position: absolute;
+    left: 25%;
+    top: 975px;
+}
+
+.get{
+    margin-top: 10%;
+}
+#getin{
+    width:200px;
+    margin:auto;
+    border-style:  solid;
+    
+}
+#love{
+    position: relative;
+    text-align: center;
+    left :20%;
+    padding-right: 40%;
+}
+#button{
+    font-size: 25px;
+    text-decoration: none;
+    background-color: rgb(185, 143, 212);
+    border-radius: 10px;
+}
+footer{
+
+    margin: 0px;
+    padding-top: 0px;
+    text-align: center;
+    background-color:  #7FACD6;
+    
+}
+#cright{
+    margin: 0%;
+    font-size: 20px;
+}
+#email{
+    position: absolute;
+    left: 35%;
+    padding-bottom: 20px;
+    top: 1360px;
+}
+#facebook{
+    position: absolute;
+    left: 35%;
+    padding-bottom: 20px;
+    top: 1410px;
+}
+#john{
+    padding-bottom:20px;
+}
